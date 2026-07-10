@@ -26,7 +26,7 @@ Dataset disediakan oleh Dicoding Indonesia dan tidak disertakan dalam repositori
 - Label klaster dari tahap sebelumnya digunakan sebagai target
 - Pelatihan model Decision Tree dan Random Forest
 - *Hyperparameter tuning*
-- Evaluasi melalui *confusion matrix* dan *classification report*
+- Evaluasi melalui *classification report*
 
 ## Hasil
 
