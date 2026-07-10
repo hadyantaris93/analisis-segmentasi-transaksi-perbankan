@@ -21,7 +21,7 @@ Dataset disediakan oleh Dicoding Indonesia dan tidak disertakan dalam repositori
 - Segmentasi menggunakan K-Means
 - Pemilihan jumlah klaster melalui *elbow method* dan *silhouette analysis*
 
-**2. Klasifikasi** — `[Klasifikasi]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris`
+**2. Klasifikasi** — `[Klasifikasi]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris.ipynb`
 
 - Label klaster dari tahap sebelumnya digunakan sebagai target
 - Pelatihan model Decision Tree dan Random Forest
