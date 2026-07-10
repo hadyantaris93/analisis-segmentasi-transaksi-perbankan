@@ -50,7 +50,7 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
-3. Jalankan `[Clustering]_Submission_Akhir_BMLP.ipynb` terlebih dahulu, lalu `[Klasifikasi]_Submission_Akhir_BMLP.ipynb`.
+3. Jalankan `[Clustering]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris.ipynb` terlebih dahulu, lalu `[Klasifikasi]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris.ipynb`.
 
 ## Penulis
 
