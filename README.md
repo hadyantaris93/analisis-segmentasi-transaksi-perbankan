@@ -12,7 +12,7 @@ Dataset disediakan oleh Dicoding Indonesia dan tidak disertakan dalam repositori
 
 ## Metode
 
-**1. Clustering** — `[Clustering]_Submission_Akhir_BMLP.ipynb`
+**1. Clustering** — `[Clustering]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris.ipynb`
 
 - Pembersihan data dan penanganan nilai hilang
 - Rekayasa fitur (pengelompokan usia)
@@ -21,7 +21,7 @@ Dataset disediakan oleh Dicoding Indonesia dan tidak disertakan dalam repositori
 - Segmentasi menggunakan K-Means
 - Pemilihan jumlah klaster melalui *elbow method* dan *silhouette analysis*
 
-**2. Klasifikasi** — `[Klasifikasi]_Submission_Akhir_BMLP.ipynb`
+**2. Klasifikasi** — `[Klasifikasi]_Submission_Akhir_BMLP_Muhammad_Hadyan_Taris`
 
 - Label klaster dari tahap sebelumnya digunakan sebagai target
 - Pelatihan model Decision Tree dan Random Forest
